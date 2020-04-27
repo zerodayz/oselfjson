@@ -61,7 +61,7 @@ def main():
 
     # these accept a value, so they need to be at the end and
     # mutually exclusive within each other.
-    positional_args = [('l', '--long', ['l'], res_types + ['all', 'l', 'sys'])]
+    positional_args = []
 
     # [(part, optional, take_exactly_one)]
     parts = [
