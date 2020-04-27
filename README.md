@@ -53,7 +53,7 @@ alias ofllfyaml='openstack flavor list -f yaml'
 
 ### Installation
 
-You can directly download the [`.openstack_aliases` file](https://rawgit.com/zerodayz/oselfjson/master/.openstack_aliases)
+You can directly download the [`.openstack_aliases` file](https://raw.githubusercontent.com/zerodayz/oselfjson/master/.openstack_aliases)
 and save it in your $HOME directory, then edit your .bashrc/.zshrc file with:
 
 ```
