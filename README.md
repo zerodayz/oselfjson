@@ -51,6 +51,20 @@ alias ofllfyaml='openstack flavor list -f yaml'
 ...
 ```
 
+### Syntax
+
+```
+('o') = ('openstack')
+('se') = ('server')
+('ne') = ('network')
+('s') = ('show')
+```
+
+For example
+
+`osel` => `openstack server list`  
+`onel` => `openstack network list`
+
 ### Installation
 
 You can directly download the [`.openstack_aliases` file](https://raw.githubusercontent.com/zerodayz/oselfjson/master/.openstack_aliases)
